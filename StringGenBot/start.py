@@ -19,7 +19,7 @@ async def start(bot: Client, msg: Message):
 ғᴜʟʟʏ sᴀғᴇ & sᴇᴄᴜʀᴇ.
 ɴᴏ ᴀɴʏ ᴇʀʀᴏʀ
 
-𝐌𝐚𝐝𝐞 𝐁𝐲  : [𝗡𝗲𝗶𝗺𝗮𝗻](tg://user?id={OWNER_ID}) !""",
+𝐌𝐚𝐝𝐞 𝐁𝐲  : [Ｌａｂａｎｉ](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -27,7 +27,7 @@ async def start(bot: Client, msg: Message):
                 ],
                 [
                     InlineKeyboardButton("❣️ 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 ❣️", url="https://t.me/labani_botz"),
-                    InlineKeyboardButton("🥀 OWNER 🥀", url="https://t.me/l_abani")
+                    InlineKeyboardButton("🥀 𝐎𝐖𝐍𝐄𝐑 🥀", url="https://t.me/l_abani")
                 ]
             ]
         ),
